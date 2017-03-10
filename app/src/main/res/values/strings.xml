@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FingerprintDemo</string>
+    <string name="touch_login">Please login with your finger.</string>
+    <string name="touch_login_success">Login complete !!</string>
+    <string name="touch_id">** Put your finger on the sensor. **</string>
+    <string name="fingerprint_status">FingerPrint Status</string>
+    <string name="fingerPrintImageView_description">\"Fingerprint ImageView\"</string>
+</resources>
